@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aayushrajputz
 - 👀 I’m interested in coding,gameing
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on to work with other or together in intellectual endeavor.
 - 📫 How to reach me on linkedln
 
