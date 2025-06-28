@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aayushrajputz
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning basics of system design 
+- 🌱 I’m currently learning advance data structures and algorithms 
 - 💞️ I’m looking to collaborate on to work with other or together in intellectual endeavor.
 - 📫 How to reach me on linkedln
 
