@@ -10,8 +10,8 @@ I build **modern, scalable, and SEO-friendly web applications** using technologi
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Next.js  
 - **Backend:** Node.js, Express, Golang, Gin  
-- **Database:** MongoDB, PostgreSQL  
-- **Monitoring & Tools:** Docker, Prometheus, Grafana, Git, Vercel, Render, AWS  
+- **Database:** MongoDB, PostgreSQL, Redis
+- **Monitoring & Tools:** Docker, Prometheus, Grafana, Git, Vercel, Render
 - **Core concepts:** Data structures Algorithms, Operating System, Computer Networks, DBMS, OOPs
 ---
 
