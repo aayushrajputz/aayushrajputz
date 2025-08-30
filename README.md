@@ -20,17 +20,17 @@ I build **modern, scalable, and SEO-friendly web applications** using technologi
 ### 1. Distributed Workflow Management System
 - **Tech Stack:** Next.js, React.js, Node.js, Express, Prometheus, Grafana  
 - **Description:** A system to manage distributed workflows efficiently with monitoring and dashboards using Prometheus & Grafana.  
-- [GitHub Repo Link](#)  
+- [GitHub Repo Link](https://github.com/aayushrajputz/Distributed-Workflow-System)  
 
 ### 2. AI-Powered Expense Tracker
 - **Tech Stack:** Next.js, Gin, Golang, PostgreSQL, Docker  
 - **Description:** Tracks income and expenses using AI insights, with Dockerized backend and scalable database setup.  
-- [GitHub Repo Link](#)  
+- [GitHub Repo Link](https://github.com/aayushrajputz/expense-tracker)  
 
 ### 3. E-commerce Website
 - **Tech Stack:** Node.js, Express, HTML, CSS, JavaScript  
 - **Description:** A fully functional e-commerce platform featuring product listing, shopping cart, and responsive design.  
-- [GitHub Repo Link](#)  
+- [GitHub Repo Link](https://github.com/aayushrajputz/ecommerce)  
 
 > More projects available on my [GitHub profile](https://github.com/aayushrajputz)
 
