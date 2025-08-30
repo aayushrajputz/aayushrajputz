@@ -48,8 +48,8 @@ I build **modern, scalable, and SEO-friendly web applications** using technologi
 ## 📫 Contact Me
 
 - Email: aayushpratapsingh001@gmail.com  
-- LinkedIn: [linkedin.com/in/aayushrajputz]((https://www.linkedin.com/in/aayush-rajput-38142827b/))  
-- Fiverr: [fiverr.com/yourusername]([https://www.fiverr.com/aayushrajputt])  
+- LinkedIn: (https://www.linkedin.com/in/aayush-rajput-38142827b/) 
+- Fiverr:(https://www.fiverr.com/aayushrajputt)  
 
 ---
 
