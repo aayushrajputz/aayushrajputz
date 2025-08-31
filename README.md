@@ -18,7 +18,7 @@ I build **modern, scalable, and SEO-friendly web applications** using technologi
 ## 💻 Projects
 
 ### 1. Distributed Workflow Management System
-- **Tech Stack:** Next.js, React.js, Node.js, Express, Prometheus, Grafana  
+- **Tech Stack:** Next.js, React.js, Node.js, Express, Mongodb, Prometheus, Grafana  
 - **Description:** A system to manage distributed workflows efficiently with monitoring and dashboards using Prometheus & Grafana.  
 - [GitHub Repo Link](https://github.com/aayushrajputz/Distributed-Workflow-System)  
 
