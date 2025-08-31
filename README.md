@@ -36,15 +36,6 @@ I build **modern, scalable, and SEO-friendly web applications** using technologi
 
 ---
 
-## 📦 What I Offer
-
-- Full-stack development (Frontend + Backend + Database + Deployment)  
-- SEO-friendly and mobile responsive websites  
-- Payment gateway integration (PayPal, Stripe, Razorpay)  
-- Post-deployment support & revisions  
-
----
-
 ## 📫 Contact Me
 
 - Email: aayushpratapsingh001@gmail.com  
