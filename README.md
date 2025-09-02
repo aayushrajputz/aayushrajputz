@@ -8,7 +8,7 @@ I build **modern, scalable, and SEO-friendly web applications** using technologi
 
 ## 🛠 Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js  
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js  
 - **Backend:** Node.js, Express, Golang, Gin  
 - **Database:** MongoDB, PostgreSQL, Redis
 - **Monitoring & Tools:** Docker, Prometheus, Grafana, Git, Vercel, Render
