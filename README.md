@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | Golang & JavaScript Enthusiast
 
-I build **modern, scalable, and SEO-friendly web applications** using technologies like **JavaScript, React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL, and Golang**. I focus on delivering **clean code, responsive design, and smooth user experience**.
+I build **modern, scalable, web applications** using technologies like **JavaScript, React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL, and Golang**. I focus on delivering **clean code, responsive design, and smooth user experience**.
 
 ---
 
