@@ -11,7 +11,7 @@ I build **modern, scalable, web applications** using technologies like **JavaScr
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js  
 - **Backend:** Node.js, Express, Golang, Gin  
 - **Database:** MongoDB, PostgreSQL, Redis
-- **Monitoring & Tools:** Docker, Prometheus, Grafana, Git, Vercel, Render
+- **Monitoring & Tools:** Docker, Git, Vercel, Render
 - **Core concepts:** Data structures Algorithms, Operating System, Computer Networks, DBMS, OOPs
 ---
 
