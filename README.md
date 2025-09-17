@@ -40,7 +40,7 @@ I build **modern, scalable, web applications** using technologies like **JavaScr
 
 - Email: aayushpratapsingh001@gmail.com  
 - LinkedIn: (https://www.linkedin.com/in/aayush-rajput-38142827b/) 
-- Fiverr:(https://www.fiverr.com/aayushrajputt)  
+ 
 
 ---
 
