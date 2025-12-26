@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aayush Rajput
 
-### 🚀 Full-Stack Developer | Golang & JavaScript Enthusiast
+### 🚀 Full-Stack Engineer | Golang & JavaScript Enthusiast
 
 I build **modern, scalable, web applications** using technologies like **JavaScript, TypeScript, React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL, and Golang**. I focus on delivering **clean code, responsive design, and smooth user experience**.
 
