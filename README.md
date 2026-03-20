@@ -32,7 +32,7 @@ I build **modern, scalable, web applications** using technologies like **JavaScr
 - **Description:** A fully functional e-commerce platform featuring product listing, shopping cart, and responsive design.  
 - [GitHub Repo Link](https://github.com/aayushrajputz/ecommerce)  
 
-> More projects available on my [GitHub profile](https://github.com/aayushrajputz)
+
 
 ---
 
