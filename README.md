@@ -13,28 +13,7 @@ I build **modern, scalable, web applications** using technologies like **JavaScr
 - **Database:** MongoDB, PostgreSQL, Redis
 - **Monitoring & Tools:** Docker, Git, Vercel, Render
 - **Core concepts:** Data structures Algorithms, Operating System, Computer Networks, DBMS, OOPs
----
 
-## 💻 Projects
-
-### 1. Distributed Workflow Management System
-- **Tech Stack:** Next.js, React.js, Node.js, Express, Mongodb, Prometheus, Grafana  
-- **Description:** A system to manage distributed workflows efficiently with monitoring and dashboards using Prometheus & Grafana.  
-- [GitHub Repo Link](https://github.com/aayushrajputz/Distributed-Workflow-System)  
-
-### 2. AI-Powered Expense Tracker
-- **Tech Stack:** Next.js, Gin, Golang, PostgreSQL, Docker  
-- **Description:** Tracks income and expenses using AI insights, with Dockerized backend and scalable database setup.  
-- [GitHub Repo Link](https://github.com/aayushrajputz/expense-tracker)  
-
-### 3. E-commerce Website
-- **Tech Stack:** Node.js, Express, HTML, CSS, JavaScript  
-- **Description:** A fully functional e-commerce platform featuring product listing, shopping cart, and responsive design.  
-- [GitHub Repo Link](https://github.com/aayushrajputz/ecommerce)  
-
-
-
----
 
 ## 📫 Contact Me
 
