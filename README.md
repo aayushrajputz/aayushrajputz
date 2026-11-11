@@ -58,9 +58,13 @@ I design and build **high-concurrency distributed backends, streaming event pipe
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aayushrajputz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aayushrajputz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aayush's GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=aayushrajputz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aayushrajputz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
 ---
 
 ### 📫 Connect With Me
